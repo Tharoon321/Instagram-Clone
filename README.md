@@ -1,16 +1,24 @@
-# React + Vite
+# Instagram Clone (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a frontend-focused Instagram clone created to practice building user interfaces using modern web technologies.  
+It uses a JSON-based database to simulate backend data during development.
 
-Currently, two official plugins are available:
+## Technologies Used
+- React
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- JSON Database (for mock data)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About the Project
+The application recreates the basic look and feel of Instagram, including layouts and UI components.  
+User data, posts, and other information are handled using a local JSON database to imitate real API behavior.
 
-## React Compiler
+This project does not include a full backend or authentication system.  
+It was built mainly for learning purposes and to understand how frontend applications interact with data.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Purpose
+- Practice React and component-based development
+- Understand data handling using JSON
+- Improve frontend design and layout skills
