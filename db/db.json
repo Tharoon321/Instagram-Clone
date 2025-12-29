@@ -1,0 +1,231 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "SP Tharoon",
+        "profile_pic": "https://tse3.mm.bing.net/th/id/OIP.jKYeH-CeMp9IB5Rv7IqyqwHaHa?pid=Api&P=0&h=180"
+      },
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "caption": "Beautiful sunset 🌄 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "saindhavi",
+        "profile_pic": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "caption": "Peaceful mountain vibes 🌿",
+      "likes": 89,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "So calming 😌"
+        }
+      ],
+      "timestamp": "2025-02-12T09:15:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "alice_wonder",
+        "profile_pic": "https://randomuser.me/api/portraits/women/65.jpg"
+      },
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d",
+      "caption": "City lights ✨",
+      "likes": 145,
+      "comments": [
+        {
+          "user": "john_doe",
+          "comment": "Love this shot!"
+        }
+      ],
+      "timestamp": "2025-02-13T18:45:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "mark_92",
+        "profile_pic": "https://randomuser.me/api/portraits/men/54.jpg"
+      },
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "caption": "Ocean therapy 🌊",
+      "likes": 201,
+      "comments": [
+        {
+          "user": "saindhavi",
+          "comment": "So relaxing!"
+        }
+      ],
+      "timestamp": "2025-02-14T07:30:00Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "rohan_k",
+        "profile_pic": "https://randomuser.me/api/portraits/men/77.jpg"
+      },
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "caption": "Morning hike 🥾",
+      "likes": 67,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Looks adventurous!"
+        }
+      ],
+      "timestamp": "2025-02-15T06:10:00Z"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 106,
+        "username": "neha_s",
+        "profile_pic": "https://randomuser.me/api/portraits/women/12.jpg"
+      },
+      "image": "https://tse2.mm.bing.net/th?id=OIF.WN9wIMVDFO1FOnzOrl1O%2bw&pid=Api&P=0&h=180",
+      "caption": "Sunset walks 💛",
+      "likes": 98,
+      "comments": [
+        {
+          "user": "mark_92",
+          "comment": "Beautiful colors!"
+        }
+      ],
+      "timestamp": "2025-02-16T17:20:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "SP Tharoon",
+    "profile_pic": "https://tse3.mm.bing.net/th/id/OIP.jKYeH-CeMp9IB5Rv7IqyqwHaHa?pid=Api&P=0&h=180"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "SP Tharoon",
+      "profile_pic": "https://tse3.mm.bing.net/th/id/OIP.jKYeH-CeMp9IB5Rv7IqyqwHaHa?pid=Api&P=0&h=180"
+    },
+    {
+      "id": "102",
+      "username": "saindhavi",
+      "profile_pic": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "id": "103",
+      "username": "alice_wonder",
+      "profile_pic": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    {
+      "id": "104",
+      "username": "mark_92",
+      "profile_pic": "https://randomuser.me/api/portraits/men/54.jpg"
+    },
+    {
+      "id": "105",
+      "username": "rohan_k",
+      "profile_pic": "https://randomuser.me/api/portraits/men/77.jpg"
+    },
+    {
+      "id": "106",
+      "username": "neha_s",
+      "profile_pic": "https://randomuser.me/api/portraits/women/12.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "SP Tharoon",
+        "profile_pic": "https://tse3.mm.bing.net/th/id/OIP.jKYeH-CeMp9IB5Rv7IqyqwHaHa?pid=Api&P=0&h=180"
+      },
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "saindhavi",
+        "profile_pic": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "alice_wonder",
+        "profile_pic": "https://randomuser.me/api/portraits/women/65.jpg"
+      },
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "mark_92",
+        "profile_pic": "https://randomuser.me/api/portraits/men/54.jpg"
+      },
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "rohan_k",
+        "profile_pic": "https://randomuser.me/api/portraits/men/77.jpg"
+      },
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 106,
+        "username": "neha_s",
+        "profile_pic": "https://randomuser.me/api/portraits/women/12.jpg"
+      },
+      "image": "https://tse2.mm.bing.net/th?id=OIF.WN9wIMVDFO1FOnzOrl1O%2bw&pid=Api&P=0&h=180"
+    }
+  ],
+  "followers": [
+    {
+      "id": "103",
+      "username": "alice_wonder",
+      "profile_pic": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    {
+      "id": "104",
+      "username": "mark_92",
+      "profile_pic": "https://randomuser.me/api/portraits/men/54.jpg"
+    },
+    {
+      "id": "105",
+      "username": "rohan_k",
+      "profile_pic": "https://randomuser.me/api/portraits/men/77.jpg"
+    },
+    {
+      "id": "106",
+      "username": "neha_s",
+      "profile_pic": "https://randomuser.me/api/portraits/women/12.jpg"
+    }
+  ]
+}
