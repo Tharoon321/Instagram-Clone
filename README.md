@@ -9,6 +9,7 @@ It uses a JSON-based database to simulate backend data during development.
 - CSS
 - Bootstrap
 - JavaScript
+- React
 - JSON Database (for mock data)
 
 ## About the Project
